@@ -50,7 +50,7 @@ MODEL_NAME = "random_forest_classifier_featurestore"
 #This is the name for the entry in model registry
 MODEL_REGISTRY_NAME = "Bank_Customer_Churn"
 #The email you use to authenticate in the Databricks workspace
-USER_EMAIL = "debu.sinha@databricks.com"
+USER_EMAIL = "arthur.fantaci@mac.com"
 #Location where the MLflow experiement will be listed in user workspace
 EXPERIMENT_NAME = f"/Users/{USER_EMAIL}/Bank_Customer_Churn_Analysis"
 # we have all the features backed into a Delta table so we will read directly
